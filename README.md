@@ -46,7 +46,7 @@
 <p align="left">
 <a href="https://www.youtube.com/c/alihan.1166" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alihan.1166" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/07010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="07010" height="30" width="40" /></a> </p>
-<
+
 
 h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> </p>
