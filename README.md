@@ -2,7 +2,6 @@
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FC08D&center=true&vCenter=true&width=700&lines=Merhaba%2C+ben+Alihan!+%F0%9F%91%8B;Oyun+ve+Web+Geli%C5%9Ftiricisiyim+%F0%9F%8E%AE;JavaScript+ve+Python+ile+Projeler+Yap%C4%B1yorum+%F0%9F%92%BB;Kendi+oyunlar%C4%B1m%C4%B1+ve+sitelerimi+geli%C5%9Ftiriyorum+%F0%9F%9A%80" />
-
 </a>
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
@@ -39,11 +38,18 @@
 
 ### 📊 GitHub İstatistiklerim
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=darkhub&no-frame=true&row=1&column=7"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" /> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" /></p>
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark&background=000000&hide_border=true"/>
+</p>
