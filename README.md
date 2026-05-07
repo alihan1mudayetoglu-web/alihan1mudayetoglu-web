@@ -5,90 +5,47 @@
   </a>
 </div>
 
+Merhaba! Ben Alihan 👋
+Kod yazmayı, yeni teknolojiler öğrenmeyi ve yaratıcı projeler geliştirmeyi seviyorum.
+Özellikle oyun geliştirme, web tasarım ve JavaScript projeleri üzerinde çalışıyorum. 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
 </div>
 
 ---
 
-# 🚀 Hoş Geldiniz!
+### 🚀 Hakkımda
 
-Merhaba! Ben **Alihan** 👋  
-Kod yazmayı, yeni teknolojiler öğrenmeyi ve yaratıcı projeler geliştirmeyi seviyorum.  
-Özellikle **oyun geliştirme**, **web tasarım** ve **JavaScript projeleri** üzerinde çalışıyorum.
-
----
-
-## 👨‍💻 Hakkımda
-
-- 🎮 Oyun geliştirmeyi ve yeni fikirler üretmeyi seviyorum.
-- 🌐 Modern ve şık web siteleri yapıyorum.
-- 🐍 Python ile çeşitli projeler geliştiriyorum.
-- ⚡ JavaScript ile interaktif uygulamalar oluşturuyorum.
-- 📚 Sürekli kendimi geliştirmeye çalışıyorum.
+- 👨‍🎓 **Web Geliştirme**, **Python** ve **JavaScript** gibi alanlarında eğitim alıyorum.
+- 💻 Yeni Oyunlar yapıp kendimi geliştirmeyi seviyorum.
+- 💡 Yeni Siteler Yapmayı Seviyorum.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+### 🛠️ Yapabildiklerim
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,python,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,python,vscode,git" />
   </a>
 </p>
 
 ---
 
-## 📂 İlgi Alanlarım
+### 📫 Bana Ulaşın
 
-- 🎮 Oyun Programlama
-- 🌍 Web Geliştirme
-- 🤖 Yazılım Teknolojileri
-- 🎨 UI / UX Tasarımı
-- 🚀 Yeni Projeler Geliştirmek
+<p align="center">
+  <a href="mailto:alihan1mudayetoglu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 
 ---
 
-## 📫 Bana Ulaşın
+### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <a href="mailto:alihan1mudayetoglu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web" alt="alihan1mudayetoglu-web" /></a> </p>
 
-## 📊 GitHub İstatistiklerim
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" /></p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20Views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=algolia" alt="alihan1mudayetoglu-web" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-<div align="center">
-
-### ✨ Profilimi ziyaret ettiğin için teşekkürler! ✨
-
-⭐ Eğer projelerimi beğenirsen takip etmeyi unutma ⭐
-
-</div>
