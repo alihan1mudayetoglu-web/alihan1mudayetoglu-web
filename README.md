@@ -42,10 +42,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web" alt="alihan1mudayetoglu-web" /></a> </p>
 
-h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihan1mudayetoglu-web&show_icons=true&locale=en&layout=compact" alt="alihan1mudayetoglu-web" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&locale=en" alt="alihan1mudayetoglu-web" /></p>
 
