@@ -21,17 +21,16 @@ jobs:
       # Snake oluştur
       - name: Generate snake animation
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: alihan1mudayetoglu-web
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Debug için
-      - name: Show git status
-        run: git status
+      - name: Show generated files
+        run: ls -la dist
 
-      # output branch'ine gönder
+      # output branch'ine yükle
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
