@@ -38,10 +38,22 @@
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arda-ozcan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda-ozcan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arda-ozcan&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web" alt="alihan1mudayetoglu-web" /></a> </p>
+
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/alihan.1166" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alihan.1166" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/07010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="07010" height="30" width="40" /></a> </p>
+<
+
+h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihan1mudayetoglu-web&show_icons=true&locale=en&layout=compact" alt="alihan1mudayetoglu-web" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&locale=en" alt="alihan1mudayetoglu-web" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" /></p>
+
