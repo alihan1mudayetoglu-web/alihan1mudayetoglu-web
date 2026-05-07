@@ -37,13 +37,10 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web" alt="alihan1mudayetoglu-web" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihan1mudayetoglu-web&show_icons=true&locale=en&layout=compact" alt="alihan1mudayetoglu-web" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&locale=en" alt="alihan1mudayetoglu-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" /></p>
 
