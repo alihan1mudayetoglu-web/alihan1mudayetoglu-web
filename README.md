@@ -48,3 +48,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" /></p>
 
 ![snake gif](https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/output/github-contribution-grid-snake.gif)
+
+![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
