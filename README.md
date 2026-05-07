@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </div>
 
 ---
 
 ### 🚀 Hakkımda
 
-- 👨‍🎓 **Web Geliştirme**, **Python** ve **JavaScript** gibi alanlarında eğitim alıyorum.
-- 💻 Yeni Oyunlar yapıp kendimi geliştirmeyi seviyorum.
-- 💡 Yeni Siteler Yapmayı Seviyorum.
+- 👨‍🎓 **Web Geliştirme**, **Python** ve **JavaScript** alanlarında eğitim alıyorum.
+- 💻 Yeni oyunlar yapıp kendimi geliştirmeyi seviyorum.
+- 💡 Yeni siteler yapmayı seviyorum.
 
 ---
 
@@ -31,16 +31,25 @@
 ### 📫 Bana Ulaşın
 
 <p align="center">
-  <a href="mailto:alihan1mudayetoglu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+  <a href="mailto:alihan1mudayetoglu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web" alt="alihan1mudayetoglu-web" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web" alt="alihan1mudayetoglu-web" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" /></p>
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" />
+</p>
