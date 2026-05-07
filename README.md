@@ -43,14 +43,6 @@
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=darkhub&no-frame=true&row=1&column=7"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web"/>
