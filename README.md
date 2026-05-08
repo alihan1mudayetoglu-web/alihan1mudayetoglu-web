@@ -22,6 +22,7 @@
 - 💻 Yeni oyunlar yapıp kendimi geliştirmeyi seviyorum.
 - 💡 Yeni siteler yapmayı seviyorum.
 
+### 💻 Leet Code Yeri
 [![Leetcode Stats](https://leetcard.jacoblin.cool/alihan1mudayetoglu-web?theme=unicorn)](https://leetcode.com/alihan1mudayetoglu-web/)
 
 ---
