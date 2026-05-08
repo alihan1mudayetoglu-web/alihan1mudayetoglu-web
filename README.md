@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Yapabildiklerim
+### 🛠️ Teknoloji Yığınım
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,python,vscode,git" />
