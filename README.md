@@ -34,23 +34,22 @@
 
 ---
 
+---
+
 ### 📫 Bana Ulaşın
 
 <p align="center">
+
 <a href="mailto:alihan1mudayetoglu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📩_Bana_Mail_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/alihan1mudayetoglu-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://replit.com/">
-<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-</a>
 </p>
 
----
+<p align="center">
+💬 Projeler, oyun geliştirme veya iş birlikleri için bana ulaşabilirsin.
+</p>
+
 ---
 
 ### 📊 GitHub İstatistiklerim
