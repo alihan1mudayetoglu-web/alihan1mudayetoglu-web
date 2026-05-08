@@ -100,13 +100,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
 
   <p align="center">
   <a>
@@ -134,9 +129,9 @@
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="alihan1mudayetoglu-web" />
+    <img heigth="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
 
