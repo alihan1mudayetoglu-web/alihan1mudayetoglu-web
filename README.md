@@ -92,6 +92,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/output/github-contribution-grid-snake.svg"/>
 </p>
