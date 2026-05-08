@@ -25,6 +25,8 @@
 <img src="https://skillicons.dev/icons?i=github,coffeescript,java,javascript,vscode,python,ts,arduino,html,css,htmx,replit,xd,ae,au,ai,ps,pr,apple,blender,bootstrap,c,cs,cpp,cloudflare,codepen,devto,discord,electron,figma,gmail,linkedin,nodejs,powershell,react,sketchup,unity,unreal,windows" />
 </p>
 
+### En İyi Yaptıklarım
+
 <p align="center">
 <img src="https://img.shields.io/badge/Web%20Tasarım-4FC08D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-Junior-blue?style=for-the-badge&logo=python&logoColor=white"/>
