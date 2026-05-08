@@ -21,6 +21,8 @@
 
 ### 🛠️ Teknoloji Yığınım
 
+### 😎Hepsi 
+
 <div align="center">
 <table>
   <tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php,perl,ocaml,r&theme=dark" /></td></tr>
@@ -35,6 +37,8 @@
   <tr><td align="right"><b>Creative</b></td><td><img src="https://skillicons.dev/icons?i=figma,ps,pr,autocad&theme=dark" /></td></tr>
 </table>
 </div>
+
+### 🛠️ Benim Teknoloji Yığınım
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=github,coffeescript,java,javascript,vscode,python,ts,arduino,html,css,htmx,replit,xd,ae,au,ai,ps,pr,apple,blender,bootstrap,c,cs,cpp,cloudflare,codepen,devto,discord,electron,figma,gmail,linkedin,nodejs,powershell,react,sketchup,unity,unreal,windows" />
