@@ -128,5 +128,5 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/output/github-contribution-grid-snake.svg"/>
 </p>
