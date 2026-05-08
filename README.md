@@ -15,11 +15,10 @@
 <div align="center">
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    style="max-width: 200px; height: auto; display: block;"
-    align="right"
+    width="200"
+    style="max-width: 200px; height: auto;"
   />
 </div>
-
 </div>
 
 ### 🚀 Hakkımda
