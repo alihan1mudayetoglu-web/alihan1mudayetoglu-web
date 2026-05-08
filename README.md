@@ -32,12 +32,20 @@
 
 ### 🛠️ Teknoloji Yığınım
 
+### 😎Hepsi 
+
 <div align="center">
 <table>
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php,perl,ocaml,r&theme=dark" /></td>
-  </tr>
+  <tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php,perl,ocaml,r&theme=dark" /></td></tr>
+  <tr><td align="right"><b>ML & Math</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,matlab&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Web & Mobile</b></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,npm,vercel,svg,flutter&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /></td></tr>
+  <tr><td align="right"><b>DevOps & Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,bash,powershell,vim,vscode,visualstudio,pycharm&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Operating Systems</b></td><td><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint,kali&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Hardware</b></td><td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Game & 3D</b></td><td><img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio,blender&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Creative</b></td><td><img src="https://skillicons.dev/icons?i=figma,ps,pr,autocad&theme=dark" /></td></tr>
 </table>
 </div>
 
@@ -65,7 +73,7 @@
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alihan1mudayetoglu@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Bana_Mail_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/_Bana_Mail_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -80,7 +88,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=000000&style=for-the-badge"/>
 
-![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula)
+![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark" />
