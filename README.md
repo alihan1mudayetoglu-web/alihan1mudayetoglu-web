@@ -22,7 +22,7 @@
 - 💻 Yeni oyunlar yapıp kendimi geliştirmeyi seviyorum.
 - 💡 Yeni siteler yapmayı seviyorum.
 
-### 💻 Leet Code Yeri
+### 💻 LeetCode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/alihan1mudayetoglu-web?theme=unicorn)](https://leetcode.com/alihan1mudayetoglu-web/)
 
 ---
@@ -84,6 +84,8 @@
 ### 📊 GitHub İstatistiklerim
 
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=000000&style=for-the-badge"/>
+
+### 🏆 Kupalar
 
 ![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
