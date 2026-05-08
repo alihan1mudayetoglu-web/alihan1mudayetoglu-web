@@ -19,10 +19,17 @@
 
 ---
 
+---
+
 ### 🛠️ Teknoloji Yığınım
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,python,vscode,git" />
+<img src="https://skillicons.dev/icons?i=java,javascript,vscode,python,arduino,html,css,replit" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Web%20Tasarım-4FC08D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Junior-blue?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -31,10 +38,19 @@
 
 <p align="center">
 <a href="mailto:alihan1mudayetoglu@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alihan1mudayetoglu-web">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://replit.com/">
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
 </a>
 </p>
 
+---
 ---
 
 ### 📊 GitHub İstatistiklerim
