@@ -36,12 +36,14 @@
 
 ---
 
+---
+
 ### 📫 Bana Ulaşın
 
 <p align="center">
 
-<a href="mailto:alihan1mudayetoglu@gmail.com">
-<img src="https://img.shields.io/badge/📩_Bana_Mail_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alihan1mudayetoglu@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/📩_Bana_Ulaş-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
