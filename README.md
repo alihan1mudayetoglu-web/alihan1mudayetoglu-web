@@ -6,12 +6,10 @@
   />
 </div>
 
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FC08D&center=true&vCenter=true&width=700&lines=Merhaba%2C+ben+Alihan!+%F0%9F%91%8B;Oyun+ve+Web+Geli%C5%9Ftiricisiyim+%F0%9F%8E%AE;JavaScript+ve+Python+ile+Projeler+Yap%C4%B1yorum+%F0%9F%92%BB;Kendi+oyunlar%C4%B1m%C4%B1+ve+sitelerimi+geli%C5%9Ftiriyorum+%F0%9F%9A%80" />
-
 </a>
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
@@ -35,14 +33,14 @@
 <div align="center">
 <table>
   <tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php,perl,ocaml,r&theme=dark" /></td></tr>
-  <tr><td align="right"><b>ML &amp; Math</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,matlab&theme=dark" /></td></tr>
-  <tr><td align="right"><b>Web &amp; Mobile</b></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,npm,vercel,svg,flutter&theme=dark" /></td></tr>
+  <tr><td align="right"><b>ML & Math</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,matlab&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Web & Mobile</b></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,npm,vercel,svg,flutter&theme=dark" /></td></tr>
   <tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase&theme=dark" /></td></tr>
   <tr><td align="right"><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /></td></tr>
-  <tr><td align="right"><b>DevOps &amp; Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,bash,powershell,vim,vscode,visualstudio,pycharm&theme=dark" /></td></tr>
+  <tr><td align="right"><b>DevOps & Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,bash,powershell,vim,vscode,visualstudio,pycharm&theme=dark" /></td></tr>
   <tr><td align="right"><b>Operating Systems</b></td><td><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint,kali&theme=dark" /></td></tr>
   <tr><td align="right"><b>Hardware</b></td><td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /></td></tr>
-  <tr><td align="right"><b>Game &amp; 3D</b></td><td><img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio,blender&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Game & 3D</b></td><td><img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio,blender&theme=dark" /></td></tr>
   <tr><td align="right"><b>Creative</b></td><td><img src="https://skillicons.dev/icons?i=figma,ps,pr,autocad&theme=dark" /></td></tr>
 </table>
 </div>
@@ -52,6 +50,8 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=github,coffeescript,java,javascript,vscode,python,ts,arduino,html,css,htmx,replit,xd,ae,au,ai,ps,pr,apple,blender,bootstrap,c,cs,cpp,cloudflare,codepen,devto,discord,electron,figma,gmail,linkedin,nodejs,powershell,react,sketchup,unity,unreal,windows" />
 </p>
+
+---
 
 ### 👍 En İyi Yaptıklarım
 
@@ -84,7 +84,12 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" /> </p>
+<div style="background-color:#000; padding:10px; display:inline-block; border-radius:8px;">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" 
+         alt="alihan1mudayetoglu-web" />
+  </p>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" /></p>
 
