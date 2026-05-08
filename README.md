@@ -60,4 +60,3 @@
 
 ![snake gif](https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/output/github-contribution-grid-snake.svg)
 
-
