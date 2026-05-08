@@ -86,7 +86,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=000000&style=for-the-badge"/>
 
-![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark" />
