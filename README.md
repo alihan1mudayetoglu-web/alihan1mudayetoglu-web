@@ -1,4 +1,3 @@
-
 <div align="center">
   <img 
     src="ChatGPT Image 8 May 2026 20_17_10.png" 
@@ -86,9 +85,11 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="alihan1mudayetoglu-web" />
-    <img heigth="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Right.png">
+    <img height="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Left.png">
+    
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="alihan1mudayetoglu-web" />
+    
+    <img height="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
