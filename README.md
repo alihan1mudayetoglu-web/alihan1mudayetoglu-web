@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ### 🚀 Hakkımda
 
 - 👨‍🎓 Web Geliştirme, Python ve JavaScript alanlarında eğitim alıyorum.
