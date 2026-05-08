@@ -80,38 +80,6 @@
 
 ### 📊 GitHub İstatistiklerim
 
-
- <br />
- 
-  <p align="center">
-  <a>
-    <img height="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Left.png">
-    
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="alihan1mudayetoglu-web" />
-    
-    <img height="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
-  
-<br />
-
-
- 
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false" alt="alihan1mudayetoglu-web" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
- 
-
- 
- <br />
- 
-  
-  
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
@@ -119,15 +87,6 @@
     <img heigth="160" width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/alihan1mudayetoglu-web/github-readme-stats)
--->
-
-
-<br />
 
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat"/>
 
