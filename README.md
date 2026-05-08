@@ -22,7 +22,7 @@
 ### 🛠️ Teknoloji Yığınım
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,javascript,vscode,python,arduino,html,css,replit" />
+<img src="https://skillicons.dev/icons?i=github,java,javascript,vscode,python,ts,arduino,html,css,htmx,replit,xd,ae,au,ai,ps,pr,apple,blender,bootstrap,c,cs,cpp,cloudflare,codepen,coffeescript,devto,discord,electron,figma,gmail,linkedin,nodejs,powershell,react,sketchup,unity,unreal,windows" />
 </p>
 
 <p align="center">
