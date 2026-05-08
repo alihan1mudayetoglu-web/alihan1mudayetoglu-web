@@ -21,6 +21,21 @@
 
 ### 🛠️ Teknoloji Yığınım
 
+<div align="center">
+<table>
+  <tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php,perl,ocaml,r&theme=dark" /></td></tr>
+  <tr><td align="right"><b>ML &amp; Math</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,matlab&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Web &amp; Mobile</b></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,npm,vercel,svg,flutter&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /></td></tr>
+  <tr><td align="right"><b>DevOps &amp; Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,bash,powershell,vim,vscode,visualstudio,pycharm&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Operating Systems</b></td><td><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint,kali&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Hardware</b></td><td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Game &amp; 3D</b></td><td><img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio,blender&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Creative</b></td><td><img src="https://skillicons.dev/icons?i=figma,ps,pr,autocad&theme=dark" /></td></tr>
+</table>
+</div>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=github,coffeescript,java,javascript,vscode,python,ts,arduino,html,css,htmx,replit,xd,ae,au,ai,ps,pr,apple,blender,bootstrap,c,cs,cpp,cloudflare,codepen,devto,discord,electron,figma,gmail,linkedin,nodejs,powershell,react,sketchup,unity,unreal,windows" />
 </p>
