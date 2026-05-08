@@ -19,8 +19,6 @@
 
 ---
 
----
-
 ### 🛠️ Teknoloji Yığınım
 
 <p align="center">
