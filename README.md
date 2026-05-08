@@ -91,38 +91,20 @@
 
 ### 💻 Depolar
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark"/>
 </p>
 
-<br />
+<br/>
 
 <p align="center">
-  <img width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Left.png">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" />
-
-  <img width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Right.png">
+  <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 
-<br />
+<br/>
 
 <p align="center">
-  <img width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Left.png">
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false" width="55%" />
-
-  <img width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Right.png">
-</p>
-
-<br />
-
-<p align="center">
-  <img width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-  <img width="182" src="https://github.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&theme=material-palenight&hide_border=false&layout=compact"/>
 </p>
 
 ### 🐍 Yılan Oyunu
