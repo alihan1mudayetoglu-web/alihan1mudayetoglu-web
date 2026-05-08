@@ -14,6 +14,8 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width=300 height=200 align="right" width="200" />
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/alihan1mudayetoglu-web?theme=unicorn)](https://leetcode.com/alihan1mudayetoglu-web/)
+
 </div>
 
 ### 🚀 Hakkımda
