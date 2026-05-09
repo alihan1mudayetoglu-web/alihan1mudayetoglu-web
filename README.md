@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="profil  resmim.png" 
+    src="ChatGPT Image 8 May 2026 20_17_10.png" 
     alt="Alihan Müdayetoğlu Banner"
     width="100%"
   />
