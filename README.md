@@ -12,7 +12,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FC08D&center=true&vCenter=true&width=700&lines=Merhaba%2C+ben+Alihan!+%F0%9F%91%8B;Oyun+ve+Web+Geli%C5%9Ftiricisiyim+%F0%9F%8E%AE;J+avaScript+ve+Python+ile+Projeler+Yap%C4%B1yorum+%F0%9F%92%BB;Kendi+oyunlar%C4%B1m%C4%B1+ve+sitelerimi+geli%C5%9Ftiriyorum+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4FC08D&center=true&vCenter=true&width=700&lines=Merhaba%2C+ben+Alihan!+%F0%9F%91%8B;Oyun+ve+Web+Geli%C5%9Ftiricisiyim+%F0%9F%8E%AE;Script+ve+Python+ile+Projeler+Yap%C4%B1yorum+%F0%9F%92%BB;Kendi+oyunlar%C4%B1m%C4%B1+ve+sitelerimi+geli%C5%9Ftiriyorum+%F0%9F%9A%80"/>
 </a>
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width=300 height=200 align="right" width="200" />
