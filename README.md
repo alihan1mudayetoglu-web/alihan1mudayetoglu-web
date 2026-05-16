@@ -110,13 +110,19 @@
 
 ---
 
+---
+
 ### 📊 En Çok Kullandığım Diller
 
-> Eğer GitHub'da yeterli kod yoksa bu kart boş görünebilir. Bu alternatif kart her zaman çalışır.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,cpp,c,cs,typescript,arduino,react,nodejs&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍%20Python-En%20Çok%20Kullandığım-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🟨%20JavaScript-Aktif-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/🌐%20HTML%20%26%20CSS-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 ---
 
