@@ -107,8 +107,6 @@
 
 ---
 
----
-
 ### 📊 En Çok Kullandığım Diller
 
 <p align="center">
