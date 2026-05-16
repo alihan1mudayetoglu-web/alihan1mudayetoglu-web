@@ -82,6 +82,71 @@
 
 ---
 
+---
+
+### 🌟 Öne Çıkan Projelerim
+
+<div align="center">
+
+<a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alihan1mudayetoglu-web&repo=Mini-e-Okul&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alihan1mudayetoglu-web&repo=Arduino-Projeleri&theme=tokyonight" />
+</a>
+
+</div>
+
+---
+
+### 📈 GitHub Aktivite Grafiğim
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihan1mudayetoglu-web&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+### 📊 En Çok Kullandığım Diller
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🎯 2026 Hedeflerim
+
+- 🚀 Kendi oyun motorumu geliştirmek
+- 🌐 Profesyonel web siteleri oluşturmak
+- 🐍 Python'da ileri seviye projeler yapmak
+- 🎮 Geometry Dash tarzı oyunumu tamamlamak
+- 🏆 LeetCode'da 500+ problem çözmek
+
+---
+
+### 🎮 İlgi Alanlarım
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oyun%20Geliştirme-8A2BE2?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Geliştirme-4FC08D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yapay%20Zeka-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+### 💡 Motive Eden Söz
+
+<div align="center">
+
+> “Hayal edebiliyorsan, yapabilirsin.” 🚀
+
+</div>
+
+---
+
 ### 📊 GitHub İstatistiklerim
 
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=000000&style=for-the-badge"/>
