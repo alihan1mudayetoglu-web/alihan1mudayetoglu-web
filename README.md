@@ -87,7 +87,7 @@
 ### 🌟 Öne Çıkan Projelerim
 
 > GitHub Readme Stats bazen repo kartlarını göstermeyebilir. Bunun yerine aşağıdaki butonlar her zaman görünür.
-  <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
+  <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories=arduinotumdosyalar">
     <img src="https://img.shields.io/badge/🤖%20Arduino%20Projeleri-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
   <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
