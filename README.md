@@ -142,8 +142,6 @@
 
 ---
 
----
-
 ### 📊 GitHub İstatistiklerim
 
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=000000&style=for-the-badge"/>
