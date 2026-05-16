@@ -110,8 +110,10 @@
 
 ### 📊 En Çok Kullandığım Diller
 
+> Eğer GitHub'da yeterli kod yoksa bu kart boş görünebilir. Bu alternatif kart her zaman çalışır.
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </div>
 
 ---
