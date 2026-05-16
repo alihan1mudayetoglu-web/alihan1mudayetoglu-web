@@ -87,11 +87,6 @@
 ### 🌟 Öne Çıkan Projelerim
 
 > GitHub Readme Stats bazen repo kartlarını göstermeyebilir. Bunun yerine aşağıdaki butonlar her zaman görünür.
-
-<p align="center">
-  <a href="https://github.com/alihan1mudayetoglu-web/Mini-e-Okul">
-    <img src="https://img.shields.io/badge/📚%20Mini%20e--Okul-4FC08D?style=for-the-badge" />
-  </a>
   <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
     <img src="https://img.shields.io/badge/🤖%20Arduino%20Projeleri-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
