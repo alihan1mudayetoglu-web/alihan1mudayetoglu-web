@@ -84,12 +84,18 @@
 
 ---
 
+---
+
 ### 🌟 Öne Çıkan Projelerim
 
-> GitHub Readme Stats bazen repo kartlarını göstermeyebilir. Bunun yerine aşağıdaki butonlar her zaman görünür.
   <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
     <img src="https://img.shields.io/badge/🤖%20Arduino%20Projeleri-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
+
+  <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
+    <img src="https://img.shields.io/badge/🐍%20Python%20Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+
   <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
     <img src="https://img.shields.io/badge/💻%20Tüm%20Projelerim-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
