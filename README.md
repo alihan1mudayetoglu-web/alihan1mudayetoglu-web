@@ -116,7 +116,7 @@
 
 ---
 
-### 🎯 2026 Hedeflerim
+### 🎯 2027 Hedeflerim
 
 - 🚀 Kendi oyun motorumu geliştirmek
 - 🌐 Profesyonel web siteleri oluşturmak
@@ -136,14 +136,6 @@
 </p>
 
 ---
-
-### 💡 Motive Eden Söz
-
-<div align="center">
-
-> “Hayal edebiliyorsan, yapabilirsin.” 🚀
-
-</div>
 
 ---
 
