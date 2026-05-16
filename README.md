@@ -82,10 +82,6 @@
 
 ---
 
----
-
----
-
 ### 🌟 Öne Çıkan Projelerim
 
   <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
