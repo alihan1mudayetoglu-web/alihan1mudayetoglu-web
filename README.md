@@ -150,11 +150,15 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
 ### 💻 Depolar
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark"/>
 </p>
+
+---
 
 ### 🐍 Yılan Oyunu
 
@@ -163,3 +167,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
