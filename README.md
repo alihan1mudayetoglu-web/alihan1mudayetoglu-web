@@ -34,7 +34,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
 </div>
 
-###
+### Stats
 
 <div align="center">
   <img
@@ -48,34 +48,7 @@
   />
 </div>
 
-<div align="center">
-
-<!-- HEADER / ANİMASYON -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Alihan+Mudayeto%C4%9Flu;Full+Stack+Developer;Code+%26+Build+%26+Create" />
-
 ---
-
-<!-- GITHUB STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight" height="170"/>
-
----
-
-<!-- SKILLS BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python"/>
-</p>
-
----
-
-<!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</div>
 
 <picture>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="470px" >
