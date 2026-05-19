@@ -33,14 +33,13 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&cache_seconds=86400"
     height="180"
-    alt="GitHub Stats"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&cache_seconds=86400"
     height="180"
-    alt="Top Languages"
   />
 </div>
 
