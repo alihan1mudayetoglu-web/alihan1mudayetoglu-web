@@ -34,19 +34,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
 </div>
 
-### Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&cache_seconds=86400"
-    height="180"
-  />
-</div>
 
 ---
 
