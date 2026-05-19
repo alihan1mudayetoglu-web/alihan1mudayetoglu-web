@@ -188,4 +188,29 @@
 
 ---
 
+<div align="center">
 
+<!-- NEON HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=GEOMETRY%20DASH%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Merhaba+Ben+Alihan+%F0%9F%91%8B;Geometry+Dash+Tarz%C4%B1+Oyunlar+Geli%C5%9Ftiriyorum+%F0%9F%8E%AE;Neon+Level+Design+%7C+Game+Physics+%7C+JavaScript+%F0%9F%92%BB;Kendi+Oyun+Motorumu+Yap%C4%B1yorum+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+## 👾 PLAYER PROFILE
+
+```txt
+NAME: Alihan
+ROLE: Game Developer
+SPECIALITY: Geometry Dash style games
+SKILL LEVEL: ████████░░ 80%
+BOSS FIGHT: Always Coding
