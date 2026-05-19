@@ -99,7 +99,7 @@
 
 ### 🌟 Öne Çıkan Projelerim
 
-  <p align="center">
+  <p align="left">
   <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
     <img src="https://img.shields.io/badge/🤖%20Arduino%20Projeleri-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
