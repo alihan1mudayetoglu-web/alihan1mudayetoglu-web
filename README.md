@@ -163,6 +163,11 @@
 
 ---
 
+### 🧠 Kodlama Motivasyonum
+> “Her gün bir satır kod = gelecekte bir büyük proje”
+
+---
+
 ### 🐍 Yılan Oyunu
 
 <picture>
@@ -180,37 +185,5 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-### 🔥 Son Eklemeler
-
-### ⚡ Gerçek Zamanlı İstatistikler
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### 📌 Şu An Üzerinde Çalışıyorum
-- 🎮 Geometry Dash tarzı gelişmiş oyun motoru
-- 🌐 Kendi portföy web sitem
-- 🤖 Python tabanlı otomasyon projeleri
-- ⚙️ Açık kaynak GitHub projeleri
-
----
-
-### 🧠 Kodlama Motivasyonum
-> “Her gün bir satır kod = gelecekte bir büyük proje”
-
----
-
-### 🛰️ Sosyal Medya & Ek Bağlantılar
-<p align="center">
-<a href="https://github.com/alihan1mudayetoglu-web">GitHub</a>
-<a href="https://instagram.com/">Instagram</a>
-<a href="https://discord.com/">Discord</a>
-</p>
 
 ---
