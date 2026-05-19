@@ -80,10 +80,6 @@
 </a>
 </p>
 
-<p align="center">
-💬 Projeler, oyun geliştirme veya iş birlikleri için bana ulaşabilirsin.
-</p>
-
 ---
 
 ### 🌟 Öne Çıkan Projelerim
@@ -116,12 +112,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,cpp,c,cs,typescript,arduino,react,nodejs&theme=dark" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/🐍%20Python-En%20Çok%20Kullandığım-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/🟨%20JavaScript-Aktif-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/🌐%20HTML%20%26%20CSS-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
@@ -190,5 +180,37 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+### 🔥 Son Eklemeler
+
+### ⚡ Gerçek Zamanlı İstatistikler
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 📌 Şu An Üzerinde Çalışıyorum
+- 🎮 Geometry Dash tarzı gelişmiş oyun motoru
+- 🌐 Kendi portföy web sitem
+- 🤖 Python tabanlı otomasyon projeleri
+- ⚙️ Açık kaynak GitHub projeleri
+
+---
+
+### 🧠 Kodlama Motivasyonum
+> “Her gün bir satır kod = gelecekte bir büyük proje”
+
+---
+
+### 🛰️ Sosyal Medya & Ek Bağlantılar
+<p align="center">
+<a href="https://github.com/alihan1mudayetoglu-web">GitHub</a>
+<a href="https://instagram.com/">Instagram</a>
+<a href="https://discord.com/">Discord</a>
+</p>
 
 ---
