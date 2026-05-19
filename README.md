@@ -18,82 +18,54 @@
 
 ---
 
-### 🚀 Hakkımda
+## 🚀 Hakkımda
 
-- 👨‍🎓 Web Geliştirme, Python ve JavaScript öğreniyorum
-- 🎮 Oyun geliştirmeyi seviyorum (Geometry Dash tarzı projeler)
-- 💡 Sürekli yeni projeler yapıyorum
-
----
-
-### 🧠 Şu An Üzerinde Çalışıyorum
-
-- 🎮 Geometry Dash tarzı oyun motoru
-- 🌐 Kişisel portfolio sitesi
-- 🤖 Python otomasyon araçları
-- ⚡ JavaScript mini oyunlar
+- 👨‍🎓 Web Geliştirme, Python ve JavaScript alanlarında eğitim alıyorum
+- 💻 Yeni oyunlar yapmayı seviyorum
+- 💡 Sürekli yeni projeler geliştiriyorum
 
 ---
 
-### 🌐 Sosyal Medya
-
-<p align="center">
-<a href="mailto:alihan1mudayetoglu@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/alihan1mudayetoglu-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
-</a>
-</p>
-
----
-
-### 💻 LeetCode
+## 💻 LeetCode
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/alihan1mudayetoglu-web?theme=unicorn)](https://leetcode.com/alihan1mudayetoglu-web/)
 
 ---
 
-### 🛠️ Teknoloji Yığınım
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="470px">
+</p>
+
+---
+
+## 🛠️ Teknoloji Yığınım
 
 <div align="center">
 
 <table>
-  <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php&theme=dark" /></td></tr>
+  <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php,perl,ocaml&theme=dark" /></td></tr>
+  <tr><td><b>ML & Math</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,matlab&theme=dark" /></td></tr>
   <tr><td><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs&theme=dark" /></td></tr>
-  <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" /></td></tr>
-  <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" /></td></tr>
-  <tr><td><b>Game Dev</b></td><td><img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" /></td></tr>
+  <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark" /></td></tr>
+  <tr><td><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /></td></tr>
+  <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" /></td></tr>
 </table>
 
 </div>
 
 ---
 
-### 🌟 Öne Çıkan Projeler
+## 🌟 Öne Çıkan Projeler
 
 <p align="center">
-<a href="https://github.com/alihan1mudayetoglu-web">
 <img src="https://img.shields.io/badge/Arduino%20Projeleri-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</a>
-
-<a href="https://github.com/alihan1mudayetoglu-web">
 <img src="https://img.shields.io/badge/Python%20Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</a>
-
-<a href="https://github.com/alihan1mudayetoglu-web">
-<img src="https://img.shields.io/badge/Tüm%20Projeler-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/Tüm%20Projeler-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Aktivite
+## 📈 GitHub Aktivite
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihan1mudayetoglu-web&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
@@ -101,7 +73,7 @@
 
 ---
 
-### 📊 GitHub İstatistikler
+## 📊 GitHub İstatistikler
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -110,13 +82,13 @@
 
 ---
 
-### 🏆 Kupalar
+## 🏆 Kupalar
 
 ![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula)
 
 ---
 
-### 🐍 Yılan Oyunu
+## 🐍 Yılan Oyunu
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
@@ -126,27 +98,9 @@
 
 ---
 
-### 🕹️ Pacman Grafiği
+## 🕹️ Pacman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-### 🎯 2027 Hedeflerim
-
-- 🚀 Oyun motoru geliştirmek
-- 🌐 Profesyonel web siteleri yapmak
-- 🐍 Python ileri seviye
-- 🎮 Kendi oyunlarımı yayınlamak
-- 🏆 500+ LeetCode problem
-
----
-
-### ⚡
-
-<p align="center">
-<b>Her gün öğrenmeye ve geliştirmeye devam ediyorum 🚀</b>
-</p>
