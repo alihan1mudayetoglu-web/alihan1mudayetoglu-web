@@ -31,6 +31,9 @@
 ---
 
 ### 🛠️ Teknoloji Yığınım
+
+---
+
 ### 😎Hepsi
 
 <div align="center">
