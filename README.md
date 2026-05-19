@@ -154,6 +154,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=000000&style=for-the-badge"/>
 
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
+</div>
+
+---
+
 ### 🏆 Kupalar
 
 ![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
