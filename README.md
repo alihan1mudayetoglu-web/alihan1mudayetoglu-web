@@ -29,12 +29,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
-</div>
-
-
 ---
 
 <picture>
