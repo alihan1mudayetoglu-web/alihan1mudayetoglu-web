@@ -185,7 +185,7 @@
 
 ---
 
-### 🕹️Pacman Oyunu
+### 🕹️ Pacman Oyunu
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
