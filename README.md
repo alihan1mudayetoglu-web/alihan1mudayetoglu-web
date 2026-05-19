@@ -32,8 +32,16 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="Top Languages"
+  />
 </div>
 
 <picture>
