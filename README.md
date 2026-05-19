@@ -32,6 +32,10 @@
 
 ### 🛠️ Teknoloji Yığınım
 
+---
+
+### 😎Hepsi
+
 <div align="center">
 
 <table>
@@ -41,7 +45,7 @@
   <tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase&theme=dark" /></td></tr>
   <tr><td align="right"><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /></td></tr>
   <tr><td align="right"><b>DevOps & Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,bash,powershell,vim,vscode,visualstudio,pycharm&theme=dark" /></td></tr>
-  <tr><td align="right"><b>OS</b></td><td><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint,kali&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Operating Systems</b></td><td><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint,kali&theme=dark" /></td></tr>
   <tr><td align="right"><b>Hardware</b></td><td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /></td></tr>
   <tr><td align="right"><b>Game & 3D</b></td><td><img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio,blender&theme=dark" /></td></tr>
   <tr><td align="right"><b>Creative</b></td><td><img src="https://skillicons.dev/icons?i=figma,ps,pr,autocad&theme=dark" /></td></tr>
@@ -51,76 +55,137 @@
 
 ---
 
-### 👍 En İyi Yaptıklarım
+### 🛠️ Benim Teknoloji Yığınım
+
 <p align="center">
-<img src="https://img.shields.io/badge/Web%20Tasarım-4FC08D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Junior-blue?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=github,coffeescript,java,javascript,vscode,python,ts,arduino,html,css,htmx,replit,xd,ae,au,ai,ps,pr,apple,blender,bootstrap,c,cs,cpp,cloudflare,codepen,devto,discord,electron,figma,gmail,linkedin,nodejs,powershell,react,sketchup,unity,unreal,windows" />
+</p>
+
+---
+
+### 👍 En İyi Yaptıklarım
+
+<p align="center">
+<img src="https://img.shields.io/badge/Web%20Tasarım-4FC08D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Junior-blue?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
 ### 📫 Bana Ulaşın
+
 <p align="center">
-<a href="mailto:alihan1mudayetoglu@gmail.com">
-<img src="https://img.shields.io/badge/Bana_Mail_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alihan1mudayetoglu@gmail.com">
+<img src="https://img.shields.io/badge/_Bana_Mail_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-### 🌟 Öne Çıkan Projeler
+### 🌟 Öne Çıkan Projelerim
+
 <p align="left">
-<img src="https://img.shields.io/badge/Arduino%20Projeleri-00979D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python%20Flask-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tüm%20Projeler-181717?style=for-the-badge"/>
+<a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
+<img src="https://img.shields.io/badge/🤖%20Arduino%20Projeleri-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</a>
+
+<a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
+<img src="https://img.shields.io/badge/🐍%20Python%20Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</a>
+
+<a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
+<img src="https://img.shields.io/badge/💻%20Tüm%20Projelerim-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 ---
 
-### 📈 GitHub Aktivite
+### 📈 GitHub Aktivite Grafiğim
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihan1mudayetoglu-web&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
-### 🧠 Günlük Motivasyon
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+### 📊 En Çok Kullandığım Diller
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,cpp,c,cs,typescript,arduino,react,nodejs&theme=dark" />
+</p>
 
 ---
 
-### 📊 İstatistikler
+### 🎯 2027 Hedeflerim
+- 🚀 Kendi oyun motorumu geliştirmek
+- 🌐 Profesyonel web siteleri oluşturmak
+- 🐍 Python'da ileri seviye projeler yapmak
+- 🎮 Geometry Dash tarzı oyunumu tamamlamak
+- 🏆 LeetCode'da 500+ problem çözmek
+
+---
+
+### 🎮 İlgi Alanlarım
+
+<p align="center">
+<img src="https://img.shields.io/badge/Oyun%20Geliştirme-8A2BE2?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Geliştirme-4FC08D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yapay%20Zeka-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=000000&style=for-the-badge"/>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
 </div>
 
 ---
 
 ### 🏆 Kupalar
-![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula)
+
+![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### 💻 Streak
+### 💻 Depolar
+
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark"/>
+</p>
 
 ---
 
-### 🕹️ Pacman
+### 🧠 Kodlama Motivasyonum
+> “Her gün bir satır kod = gelecekte bir büyük proje”
+
+---
+
+### 🕹️ Pacman Oyunu
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
-<img src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
-### 🐍 Snake
+### 🐍 Yılan Oyunu
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+<img alt="snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+
