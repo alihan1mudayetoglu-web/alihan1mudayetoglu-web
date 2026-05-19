@@ -30,6 +30,26 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=0e75b6&style=flat" alt="alihan1mudayetoglu-web" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web" alt="alihan1mudayetoglu-web" /></a> </p>
+
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/alihan.1166" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alihan.1166" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/07010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="07010" height="30" width="40" /></a> </p>
+<
+
+h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihan1mudayetoglu-web&show_icons=true&locale=en&layout=compact" alt="alihan1mudayetoglu-web" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&locale=en" alt="alihan1mudayetoglu-web" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&" alt="alihan1mudayetoglu-web" /></p>
+
+
 <picture>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="470px" >
 </picture>
