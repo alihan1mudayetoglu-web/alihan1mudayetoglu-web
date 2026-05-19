@@ -190,27 +190,50 @@
 
 <div align="center">
 
-<!-- NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=GEOMETRY%20DASH%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- ===== HEADER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=GEOMETRY%20DASH%20PROFILE&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=LEVEL+SELECT+MODE+ACTIVE;CHECKPOINT+SYSTEM+ONLINE;BOSS+FIGHT+READY;PLAYER+LOADED:+ALIHAN"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 🎮 LEVEL SELECT MENU
 
-<!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Merhaba+Ben+Alihan+%F0%9F%91%8B;Geometry+Dash+Tarz%C4%B1+Oyunlar+Geli%C5%9Ftiriyorum+%F0%9F%8E%AE;Neon+Level+Design+%7C+Game+Physics+%7C+JavaScript+%F0%9F%92%BB;Kendi+Oyun+Motorumu+Yap%C4%B1yorum+%F0%9F%9A%80" />
+<p align="center">
 
-</div>
+<a href="#level-1">
+  <img src="https://img.shields.io/badge/LEVEL%201-START-00ff00?style=for-the-badge"/>
+</a>
+
+<a href="#level-2">
+  <img src="https://img.shields.io/badge/LEVEL%202-MEDIUM-yellow?style=for-the-badge"/>
+</a>
+
+<a href="#level-3">
+  <img src="https://img.shields.io/badge/LEVEL%203-HARD-orange?style=for-the-badge"/>
+</a>
+
+<a href="#boss-fight">
+  <img src="https://img.shields.io/badge/BOSS%20FIGHT-EXTREME-red?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 👾 PLAYER PROFILE
+# 🧱 PLAYER CHECKPOINT SYSTEM
 
-```txt
-NAME: Alihan
-ROLE: Game Developer
-SPECIALITY: Geometry Dash style games
-SKILL LEVEL: ████████░░ 80%
-BOSS FIGHT: Always Coding
+<p align="center">
+
+<img src="https://img.shields.io/badge/Checkpoint%201-UNLOCKED-00ff00"/>
+<img src="https://img.shields.io/badge/Checkpoint%202-UNLOCKED-00ff00"/>
+<img src="https://img.shields.io/badge/Checkpoint%203-LOCKED-red"/>
+<img src="https://img.shields.io/badge/FINAL%20CHECKPOINT-BOSS%20AREA-purple"/>
+
+</p>
+
+---
+
+# 👾 PLAYER STATUS
