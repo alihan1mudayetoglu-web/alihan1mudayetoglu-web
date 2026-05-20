@@ -145,6 +145,11 @@
 
 ---
 
+### 🧠 Kodlama Motivasyonum
+> “Her gün bir satır kod = gelecekte bir büyük proje”
+
+---
+
 ### 📊 GitHub İstatistiklerim
 
 <img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile%20views&color=000000&style=for-the-badge"/>
@@ -169,11 +174,6 @@
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark"/>
 </p>
-
----
-
-### 🧠 Kodlama Motivasyonum
-> “Her gün bir satır kod = gelecekte bir büyük proje”
 
 ---
 
