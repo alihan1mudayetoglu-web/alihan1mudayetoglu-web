@@ -223,3 +223,118 @@
 </div>
 
 ---
+
+
+
+
+---
+
+## 🌌 Kodlama Yolculuğum
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+---
+
+## ⏳ Kodlama Seviyem
+
+<div align="center">
+  <img src="https://progress-bar.dev/90/?title=HTML%20%26%20CSS&width=600&color=4FC08D">
+  <br><br>
+  <img src="https://progress-bar.dev/85/?title=JavaScript&width=600&color=F7DF1E">
+  <br><br>
+  <img src="https://progress-bar.dev/80/?title=Python&width=600&color=3776AB">
+  <br><br>
+  <img src="https://progress-bar.dev/70/?title=Flask&width=600&color=000000">
+  <br><br>
+  <img src="https://progress-bar.dev/65/?title=Arduino&width=600&color=00979D">
+</div>
+
+---
+
+## 🌍 Dünya Haritası
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihan1mudayetoglu-web&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+## 🧩 Pixel Art
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+</div>
+
+---
+
+## 🎮 Achievement Rozetleri
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮-Game%20Developer-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐-Web%20Developer-4FC08D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐍-Python%20Coder-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-Arduino%20Maker-00979D?style=for-the-badge" />
+</p>
+
+---
+
+## 🛰️ Matrix Yağmuru
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ7Lz1rY6Y/giphy.gif" width="100%" />
+</div>
+
+---
+
+## 🌠 Son Söz
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Code%20%2B%20Creativity%20%3D%20Future&fontSize=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
+</div>
+
+---
+
+
+---
+
+## 📌 Şu Anda Üzerinde Çalıştıklarım
+
+- 🎮 Geometry Dash tarzı oyun geliştiriyorum
+- 🌐 Flask ile web projeleri yapıyorum
+- 🤖 Arduino projeleri geliştiriyorum
+- 🧠 LeetCode problemleri çözüyorum
+
+---
+
+## 📚 Şu Anda Öğrendiklerim
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Game%20Development-8A2BE2?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+---
+
+## ⚡ Eğlenceli Bilgiler
+
+- ☕ Kod yazarken müzik dinlemeyi seviyorum
+- 🎮 Oyun geliştirmek en büyük hobilerimden biri
+- 🚀 Kendi oyun motorumu yapmak istiyorum
+- 💡 Her gün yeni bir şey öğrenmeye çalışıyorum
+
+---
+
+## ⭐ Favori Teknolojilerim
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
