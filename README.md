@@ -194,6 +194,12 @@
 
 ---
 
+### 🚀 Uzay Oyunu
+
+<img align="center" width="100%" src="gh-space-shooter.webp" />
+
+---
+
 ### 🐍 Yılan Oyunu
 
 <picture>
@@ -213,8 +219,3 @@
 </div>
 
 ---
-
-
-<img align="center" width="100%" src="gh-space-shooter.webp" />
-
-
