@@ -241,3 +241,45 @@
 </div>
 
 ---
+
+### 🎮 Geometry Dash Tarzı Oyun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" />
+</p>
+
+<p align="center">
+  🚀 Kendi Geometry Dash tarzı platform oyunum üzerinde çalışıyorum  
+  🎵 Müzik senkronizasyonu + zorluk artışı + özel level tasarımı  
+</p>
+
+---
+
+### 🎥 Oynanış Videosu
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_BURAYA">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_BURAYA/maxresdefault.jpg" width="700"/>
+  </a>
+</p>
+
+---
+
+### 🧩 Özellikler
+- 🔺 Zorluk seviyesi artan bölümler  
+- 🎵 Müzik ile senkronize zıplama sistemi  
+- ⚡ Hız değişimi ve özel platformlar  
+- 🧠 Kendi level editor sistemi (geliştiriliyor)
+
+---
+
+### 🗺️ Level Sistemi
+- Level 1: Basit başlangıç haritası  
+- Level 2: Orta seviye hız & trap’ler  
+- Level 3: Zor refleks bölümü  
+- Level 4: Boss tarzı final bölüm (WIP)
+
+---
+
+### 💻 Proje Linki
+👉 GitHub Repositories kısmından “Geometry Dash Clone” projemi inceleyebilirsin
