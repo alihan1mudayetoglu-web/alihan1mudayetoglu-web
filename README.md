@@ -88,6 +88,94 @@
 
 ---
 
+---
+
+### 🎵 Şu Anda Dinlediklerim
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31j4xxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=4FC08D&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j4xxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=4FC08D&bar_color_cover=false" />
+  </a>
+</div>
+
+---
+
+### ⏱️ WakaTime İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alihan1mudayetoglu-web&theme=tokyonight&layout=compact" />
+</div>
+
+---
+
+### 📅 GitHub Takvimim
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/4FC08D/alihan1mudayetoglu-web" alt="GitHub Contribution Chart" width="100%" />
+</div>
+
+---
+
+### 🎧 Favori Müzik Türlerim
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rap-000000?style=for-the-badge&logo=spotify&logoColor=1DB954" />
+  <img src="https://img.shields.io/badge/LoFi-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20OST-5865F2?style=for-the-badge&logo=youtube&logoColor=white" />
+</p>
+
+---
+
+### 🌍 Sosyal Medya Hesaplarım
+
+<p align="center">
+  <a href="https://github.com/alihan1mudayetoglu-web">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/alihan1mudayetoglu-web/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 Kodlama Aktivitem
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alihan1mudayetoglu-web&theme=tokyonight&utcOffset=3" />
+</div>
+
+---
+
+### 🔥 Günün Motivasyonu
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+### 🎮 Son Oynadığım Oyunlar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Geometry%20Dash-FFD700?style=for-the-badge&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox-E2231A?style=for-the-badge&logo=roblox&logoColor=white" />
+</p>
+
+---
+
+### 🐍 Günlük Katkı Animasyonu
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 
 ### 🌟 Öne Çıkan Projelerim
 
