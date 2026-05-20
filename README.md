@@ -224,19 +224,6 @@
 
 ---
 
-
-
-
----
-
-## 🌌 Kodlama Yolculuğum
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</div>
-
----
-
 ## ⏳ Kodlama Seviyem
 
 <div align="center">
