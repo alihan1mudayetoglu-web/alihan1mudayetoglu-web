@@ -181,6 +181,8 @@
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
+---
+
 
 ### 🕹️ Pacman Oyunu
 
@@ -204,11 +206,10 @@
 
 <div align="center">
 
-⭐ *Thanks for visiting my profile!*
+ *⭐ Profilimi ziyaret ettiğiniz için teşekkürler!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
 </div>
 
 ---
-
