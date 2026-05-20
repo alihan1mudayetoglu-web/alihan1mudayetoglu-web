@@ -24,6 +24,15 @@
 
 ---
 
+## 🌍 Dünya Haritası
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihan1mudayetoglu-web&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+
 <picture>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="470px">
 </picture>
@@ -131,6 +140,17 @@
 
 ---
 
+## 🎮 Achievement Rozetleri
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮-Game%20Developer-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐-Web%20Developer-4FC08D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐍-Python%20Coder-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-Arduino%20Maker-00979D?style=for-the-badge" />
+</p>
+
+---
+
 ### 🎯 2027 Hedeflerim
 - 🚀 Kendi oyun motorumu geliştirmek
 - 🌐 Profesyonel web siteleri oluşturmak
@@ -139,6 +159,8 @@
 - 🏆 LeetCode'da 500+ problem çözmek
 
 ---
+
+
 
 ### 🎮 İlgi Alanlarım
 
@@ -221,48 +243,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
 </div>
-
----
-
-## ⏳ Kodlama Seviyem
-
-<div align="center">
-
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-90%25-4FC08D?style=for-the-badge&logo=html5&logoColor=white)
-<br><br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<br><br>
-
-![Flask](https://img.shields.io/badge/Flask-70%25-000000?style=for-the-badge&logo=flask&logoColor=white)
-<br><br>
-
-![Arduino](https://img.shields.io/badge/Arduino-65%25-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-## 🌍 Dünya Haritası
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihan1mudayetoglu-web&theme=tokyonight" width="100%" />
-</div>
-
----
-
-
-
-## 🎮 Achievement Rozetleri
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎮-Game%20Developer-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌐-Web%20Developer-4FC08D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🐍-Python%20Coder-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-Arduino%20Maker-00979D?style=for-the-badge" />
-</p>
 
 ---
