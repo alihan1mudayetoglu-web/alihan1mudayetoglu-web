@@ -261,13 +261,7 @@
 
 ---
 
-## 🧩 Pixel Art
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
-</div>
-
----
 
 ## 🎮 Achievement Rozetleri
 
@@ -285,56 +279,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKsQ8UQ7Lz1rY6Y/giphy.gif" width="100%" />
 </div>
-
----
-
-## 🌠 Son Söz
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Code%20%2B%20Creativity%20%3D%20Future&fontSize=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
-</div>
-
----
-
-
----
-
-## 📌 Şu Anda Üzerinde Çalıştıklarım
-
-- 🎮 Geometry Dash tarzı oyun geliştiriyorum
-- 🌐 Flask ile web projeleri yapıyorum
-- 🤖 Arduino projeleri geliştiriyorum
-- 🧠 LeetCode problemleri çözüyorum
-
----
-
-## 📚 Şu Anda Öğrendiklerim
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Game%20Development-8A2BE2?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
----
-
-## ⚡ Eğlenceli Bilgiler
-
-- ☕ Kod yazarken müzik dinlemeyi seviyorum
-- 🎮 Oyun geliştirmek en büyük hobilerimden biri
-- 🚀 Kendi oyun motorumu yapmak istiyorum
-- 💡 Her gün yeni bir şey öğrenmeye çalışıyorum
-
----
-
-## ⭐ Favori Teknolojilerim
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
 
 ---
