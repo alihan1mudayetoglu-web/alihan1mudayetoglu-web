@@ -75,12 +75,19 @@
 ### 📫 Bana Ulaşın
 
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alihan1mudayetoglu@gmail.com">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alihan1mudayetoglu@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/_Bana_Mail_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+<p align="center">
+💬 Projeler, oyun geliştirme veya iş birlikleri için bana ulaşabilirsin.
 </p>
 
 ---
+
 
 ### 🌟 Öne Çıkan Projelerim
 
