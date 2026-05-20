@@ -227,15 +227,21 @@
 ## ⏳ Kodlama Seviyem
 
 <div align="center">
-  <img src="https://progress-bar.dev/90/?title=HTML%20%26%20CSS&width=600&color=4FC08D">
-  <br><br>
-  <img src="https://progress-bar.dev/85/?title=JavaScript&width=600&color=F7DF1E">
-  <br><br>
-  <img src="https://progress-bar.dev/80/?title=Python&width=600&color=3776AB">
-  <br><br>
-  <img src="https://progress-bar.dev/70/?title=Flask&width=600&color=000000">
-  <br><br>
-  <img src="https://progress-bar.dev/65/?title=Arduino&width=600&color=00979D">
+
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-90%25-4FC08D?style=for-the-badge&logo=html5&logoColor=white)
+<br><br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br><br>
+
+![Flask](https://img.shields.io/badge/Flask-70%25-000000?style=for-the-badge&logo=flask&logoColor=white)
+<br><br>
+
+![Arduino](https://img.shields.io/badge/Arduino-65%25-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 </div>
 
 ---
@@ -258,13 +264,5 @@
   <img src="https://img.shields.io/badge/🐍-Python%20Coder-3776AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖-Arduino%20Maker-00979D?style=for-the-badge" />
 </p>
-
----
-
-## 🛰️ Matrix Yağmuru
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ7Lz1rY6Y/giphy.gif" width="100%" />
-</div>
 
 ---
