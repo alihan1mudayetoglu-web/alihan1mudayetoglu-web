@@ -255,6 +255,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" width="700"/>
+  </a>
+</p>
+
 ### 🧩 Bölümler (Level Sistemi)
 
 - 🟢 Level 1: Kolay başlangıç haritası  
