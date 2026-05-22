@@ -215,7 +215,7 @@
   ---
 
   <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-<img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&theme=dark&hide_border=false" />
   <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   
 ---
