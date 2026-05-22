@@ -186,7 +186,7 @@
 <table>
 <tr>
 <td align="left">
-<img height="160" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+ <img heigth="160" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
 </td>
 
 <td align="center">
