@@ -261,3 +261,32 @@
 </div>
 
 ---
+
+🚀 Alihan Müdayetoğlu
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=4FC08D&center=true&vCenter=true&width=700&lines=Oyun+ve+Web+Geliştiricisi;Python+%7C+JavaScript+%7C+Java;Kendi+projelerimi+geliştiriyorum" /> </div>
+👨‍💻 Hakkımda
+🎮 Oyun geliştirme (özellikle Geometry Dash tarzı projeler)
+🌐 Web geliştirme (HTML, CSS, JavaScript)
+🐍 Python ile backend ve otomasyon
+🚀 Sürekli yeni projeler üretmeyi seviyorum
+🛠️ Teknolojiler
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css,react,nodejs,git,github,vscode,unity,arduino&theme=dark" /> </p>
+📊 GitHub İstatistikleri
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div>
+🔥 Aktivite
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihan1mudayetoglu-web&theme=tokyo-night&hide_border=true" width="100%"/> </div>
+🏆 Başarılar
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=true&margin-w=10"/> </p>
+🎯 Hedefler
+🎮 Kendi oyun motorumu geliştirmek
+🌐 Profesyonel web projeleri yapmak
+🧠 Daha ileri seviye Python projeleri
+🏆 500+ LeetCode problemi çözmek
+📫 İletişim
+<p align="center"> <a href="mailto:alihan1mudayetoglu@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+💡 Motto
+
+“Her satır kod, geleceğe atılan bir adımdır.”
+
+⚡ Footer
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/> </div>
