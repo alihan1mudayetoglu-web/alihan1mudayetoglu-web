@@ -194,12 +194,11 @@
   <img height="160" width="182" 
        src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png"
        style="vertical-align: middle;">
-
-  <img 
+      <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=dark"
        style="vertical-align: middle;">
-
-  <img height="160" width="182" 
+      <img 
+       height="160" width="182" 
        src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png"
        style="vertical-align: middle;">
 </p>
