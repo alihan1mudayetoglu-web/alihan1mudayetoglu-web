@@ -211,9 +211,7 @@
   ---
 
   <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=dark" />
   <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   
 ---
