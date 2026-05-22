@@ -38,11 +38,23 @@
 
 ---
 
-### 🛠️ Teknoloji Yığınım
+---
+
+## 🎧 EKLENEN: Spotify Durumu
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+</p>
 
 ---
 
-### 😎Hepsi
+## 💡 EKLENEN: Günün Sözü
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 🛠️ Teknoloji Yığınım
 
 <div align="center">
 
@@ -84,7 +96,7 @@
 
 <p align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alihan1mudayetoglu@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alihan1mudayetoglu@gmail.com">
 <img src="https://img.shields.io/badge/_Bana_Mail_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -128,13 +140,15 @@
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,cpp,c,cs,typescript,arduino,react,nodejs&theme=dark" />
 </p>
 
+---
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
 </div>
 
 ---
@@ -186,7 +200,7 @@
 <table>
 <tr>
 <td align="left">
- <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+ <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
 </td>
 
 <td align="center">
@@ -204,60 +218,33 @@
 ---
 
 <div align="center">
-   <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alihan1mudayetoglu-web&theme=tokyonight" height="180"/>
-  <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihan1mudayetoglu-web&theme=dark" />
+</div>
 
-  ---
-
-  <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihan1mudayetoglu-web&theme=dark" />
-  <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
-  
 ---
 
-### 🏆 Kupalar
-
-![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Kupalar
+![](https://github-profile-trophy.vercel.app/?username=alihan1mudayetoglu-web&theme=dracula)
 
 ---
 
 ### 💀 Dinozor Oyunu
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-
----
-
-### 🕹️ Pacman Oyunu
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alihan1mudayetoglu-web/alihan1mudayetoglu-web/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 🚀 Uzay Oyunu
-
-<img align="center" width="100%" src="gh-space-shooter.webp" />
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="100%">
 
 ---
 
 ### 🐍 Yılan Oyunu
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
 <div align="center">
 
- *⭐ Profilimi ziyaret ettiğiniz için teşekkürler!*
+*⭐ Profilimi ziyaret ettiğiniz için teşekkürler!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
 </div>
-
----
