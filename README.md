@@ -261,3 +261,66 @@
 </div>
 
 ---
+
+
+
+
+---
+
+### 🎧 Şu Anda Dinlediğim Şarkı
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxx&redirect=true)
+
+</div>
+
+---
+
+### ⏱️ Kodlama Sürem
+
+<div align="center">
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@alihan1mudayetoglu-web&theme=tokyonight)](https://wakatime.com)
+
+</div>
+
+---
+
+### 🔥 GitHub İstatistiklerim
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihan1mudayetoglu-web&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+### 🌌 Matrix Yağmuru
+
+<div align="center">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%">
+</div>
+
+---
+
+### 🎵 Müzik ve Kod
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+### ⚡ Gerçek Zamanlı Aktivite
+
+```text
+💻 Kod yazıyor...
+🎮 Oyun geliştiriyor...
+🌐 Yeni projeler üretiyor...
+☕ Kahve tüketiliyor...
