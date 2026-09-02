@@ -110,15 +110,6 @@
 <a href="https://github.com/alihan1mudayetoglu-web?tab=repositories">
 <img src="https://img.shields.io/badge/💻%20Tüm%20Projelerim-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
-
----
-
-### 📈 GitHub Aktivite Grafiğim
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihan1mudayetoglu-web&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
 
 ---
 
