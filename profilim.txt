@@ -114,14 +114,6 @@
 
 ---
 
-### 📈 GitHub Aktivite Grafiğim
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihan1mudayetoglu-web&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
 ### 📊 En Çok Kullandığım Diller
 
 <p align="center">
